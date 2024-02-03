@@ -1,20 +1,47 @@
-# Suraj-Gojanur
-About
+<h1 align="center">Hi 👋, I'm Suraj Gojanur</h1>
+<p align="left"> <img src="INSERT_PROFILE_VIEWS_BADGE_URL_HERE" alt="suraj-gojanur" /> </p>
+
+<p align="left"> <a href="INSERT_TWITTER_PROFILE_URL_HERE" target="blank"><img src="INSERT_TWITTER_FOLLOW_BADGE_URL_HERE" alt="" /></a> </p>
+
+<!-- Work Experience -->
 ## Work Experience
 
-### Live Video Captioning and Audio Synthesis Project
+### Sleeping Dragon Game
 
-**Role**: Developer
+**Developer** - Oct 2023 to Oct 2023
 
-- Currently working on a project focused on live video captioning and audio synthesis.
-- Leveraging skills in Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision.
-- Repository: [Live Video Captioning and Audio Synthesis Project](https://github.com/Durgaprasad-kakarla/Live-Video-Captioning-and-Audio-Synthesis-)
+- Python-based game project titled "Sleeping Dragon," set in a dungeon.
+- Players control a hero collecting dragon eggs while avoiding the dragon's attacks.
+- Two Phases: Dragon Lair Setup and Gameplay.
+- Game Logic includes hero movement, dragon behavior, egg collection, and a lives system.
+- Used: Python, Pygame
+
+### AI360Hub
+
+**Developer** - Jan 2024 to Jan 2024
+
+- Web-based project built upon the Google Gemini API.
+- EMAILCRAFTIFY: Simplifies email creation with a user-friendly wizard, integrating dynamic content and images for engaging emails.
+- TONE BLENDR: Enhances written communication with Tone Conversion Engine, leveraging advanced natural language processing and Google Gemini API.
+- ANSWER2ACRO: Acronymize tool, powered by Google Gemini API and Node.js, transforms lengthy answers into memorable acronyms.
+- API Gateway Integration: Achieves robust communication and enhanced data flow with Node.js-powered API gateway.
+
+## Education
+
+- **St Paul's Residential School** – (2019)
+  - SSLC - GPA: 7.9/10.0
+
+- **Mahesh PU College Hubli** – (2019 & 2021)
+  - Pre-University Course (PUC) - GPA: 6.5/10.0
+
+- **KLE Society's P.C.Jabin Science College Hubli** – (2021 & 2024)
+  - Bachelor of Computer Application (BCA) - GPA: 7.3/10.0
 
 ## Certifications
 
-- Web Development - Codekaro
-- JAVA – Great Learning Academy
-- Cloud Computing – Microsoft
+- Web Development - [Codekaro](#)
+- JAVA – [Great Learning Academy](#)
+- Cloud Computing – [Microsoft](#)
 
 ## Skills
 
@@ -27,33 +54,14 @@ About
 
 **Developer** - Aug 2022
 
-- Developed a comprehensive Bookstore Management System as part of my college coursework.
+- Developed a comprehensive Bookstore Management System as part of college coursework.
 - Java-based application with Admin and Client phases.
 - Admin Phase: Empowered administrators to add book details to the database.
 - Client Phase: Enabled clients to access the bookstore and input book details.
 
-### Sleeping Dragon Game
-
-**Developer** - Oct 2023
-
-- Python-based game set in a dungeon.
-- Players control a hero collecting dragon eggs while avoiding dragon attacks.
-- Two Phases: Dragon Lair Setup and Gameplay.
-- Game Logic includes hero movement, dragon behavior, egg collection, and a lives system.
-
-### AI360Hub
-
-**Developer** - Jan 2024
-
-- Web-based project built upon the Google Gemini API.
-- EMAILCRAFTIFY: Simplifies email creation with a user-friendly wizard.
-- TONE BLENDR: Enhances written communication using advanced natural language processing.
-- ANSWER2ACRO: Transforms lengthy answers into memorable acronyms.
-- API Gateway Integration: Ensures robust communication and enhanced data flow.
-
 ## Contact Information
 
-- **Email**: kakarladuragaprasad92003@gmail.com
-- **LinkedIn**: [Durga Prasad Kakarla](https://linkedin.com/in/durga-prasad-kakarla-168916225/)
-- **Instagram**: [durga_prasad_18_](https://instagram.com/durga_prasad_18_)
-- **Twitter**: [Your Twitter Profile](https://twitter.com/)
+- **Email**: [surajgojanur@gmail.com](mailto:surajgojanur@gmail.com)
+- **LinkedIn**: [Suraj Gojanur](https://linkedin.com/in/suraj-gojanur-3792731b5)
+- **Address**: Sahadev Nagar, Hubli, 580030
+- **Phone**: 6361810781
